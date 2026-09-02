@@ -5,11 +5,6 @@
       "valid": true,
       "plan": "unlimited",
       "expires_at": "2099-01-01"
-    },
-    "VIP-KEY-002": {
-      "valid": true,
-      "plan": "unlimited",
-      "expires_at": "2026-12-31"
     }
   }
 }
