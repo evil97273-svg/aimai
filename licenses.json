@@ -7,18 +7,6 @@
       "plan_code": "premium",
       "expires_at": "2027-12-31",
       "device_id": ""
-    },
-    "AIM-PREM-5678-EFGH": {
-      "valid": true,
-      "plan_code": "premium",
-      "expires_at": "2026-12-31",
-      "device_id": "abcdef1234567890"
-    },
-    "AIM-BASIC-9999-ZZZZ": {
-      "valid": false,
-      "plan_code": "basic",
-      "expires_at": "2026-01-01",
-      "device_id": ""
     }
   }
 }
